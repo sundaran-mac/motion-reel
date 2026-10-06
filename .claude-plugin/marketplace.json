@@ -1,0 +1,14 @@
+{
+  "name": "motion-reel",
+  "description": "The reel skill: short motion graphics videos made with Claude Code.",
+  "owner": {
+    "name": "Sundaran V"
+  },
+  "plugins": [
+    {
+      "name": "reel",
+      "source": "./",
+      "description": "Make short motion graphics videos (reels, promos, explainers) with an offline voice, free music and sound effects."
+    }
+  ]
+}

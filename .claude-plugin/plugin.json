@@ -1,0 +1,16 @@
+{
+  "name": "reel",
+  "description": "Make short motion graphics videos (reels, promos, explainers) with Motion Canvas, an offline voice, free music and sound effects.",
+  "author": {
+    "name": "Sundaran V"
+  },
+  "repository": "https://github.com/sundaran-mac/motion-reel",
+  "keywords": [
+    "video",
+    "reel",
+    "motion-canvas",
+    "promo",
+    "kokoro"
+  ],
+  "license": "MIT"
+}
