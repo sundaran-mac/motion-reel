@@ -1,0 +1,6 @@
+# Downloaded per video by tools/new.mjs or made by tools/vo.py, never committed
+public/fonts/*.ttf
+public/vo/*
+!public/vo/.gitkeep
+.reel.json
+output-editor.png

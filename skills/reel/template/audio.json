@@ -1,0 +1,4 @@
+{
+  "music": {"id": "music-000"},
+  "sfx": {"whoosh": "sfx-000", "pop": "sfx-001", "lock": "sfx-002"}
+}
