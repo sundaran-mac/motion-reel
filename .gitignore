@@ -1,0 +1,23 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Rendered output and per-video work never belong in this repo
+output/
+out/
+*.mp4
+*.wav
+
+# Licensed audio and models are downloaded per machine into ~/Reels/.library, never committed
+*.mp3
+*.onnx
+catalog.json
+
+# Secrets
+.env
+.env.*
